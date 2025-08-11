@@ -21,7 +21,7 @@ pip install torch torchvision numpy matplotlib scikit-learn seaborn pandas tqdm
 
 **File Structure**
 
-* `Portfolio_Wigglies_Riya_Harsha.ipynb` - Contains the complete, commented source code for both neural network implementations
+* `Portfolio_Wigglies.ipynb` - Contains the complete, commented source code for both neural network implementations
 * `trainset.pth` - Training dataset with labeled samples
 * `testset_noLabels.pth` - Test dataset for final predictions
 * `submission.csv` - Generated predictions for test set
